@@ -9,7 +9,7 @@ Copy the markdown below and update the placeholders with your personal informati
 
 # Hi there, I'm [SaraSailorNoob2-alt]! 👋
 
-![Banner Image](https://camo.githubusercontent.com/d56dc36f00472d0c06908554fd729c2fe30985b3a4945ee0c1c85be71c4d42a0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f534135757733546433337146344647496c592f67697068792e676966)
+![Banner Image]()
 
 ## About Me 🚀
 
@@ -32,7 +32,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 *Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
-
+-Working on it-
 
 ## Get in Touch 📬
 
@@ -49,7 +49,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ```
 # Hi there, I'm [SaraSailorNoob2-alt]! 👋
 
-![Banner Image](https://camo.githubusercontent.com/d56dc36f00472d0c06908554fd729c2fe30985b3a4945ee0c1c85be71c4d42a0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f534135757733546433337146344647496c592f67697068792e676966)
+![Banner Image]()
 
 ## About Me 🚀
 
