@@ -76,7 +76,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+![Steam]({https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white})
 
 
 
