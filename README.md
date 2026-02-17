@@ -23,6 +23,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## My Skills 🧠
 
+-Working on it-
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -32,9 +34,12 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 *Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
+
 -Working on it-
 
 ## Get in Touch 📬
+
+-Working on it-
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Steam]({https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white})
@@ -63,6 +68,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## My Skills 🧠
 
+-Working on it-
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -71,9 +78,12 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 
 ## Featured Projects 💻
+
 -Working on it-
 
 ## Get in Touch 📬
+
+-Working on it-
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Steam]({https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white})
