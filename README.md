@@ -1,5 +1,7 @@
 # Hi there, I'm SaraSailorNoob2-alt! 👋
 
+![Screenshot 2025-12-11 221755](https://github.com/user-attachments/assets/799df64d-b867-40b7-b7f4-248f7d3c9528)
+
 ## About Me 🚀
 
 - 🌱 Currently learning: **Blender, Git and Python**
