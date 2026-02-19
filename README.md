@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-- 🌱 Currently learning: **Python and Blender**
+- 🌱 Currently learning: **Blender, Git and Python**
 - 🔭 Working on: **To learn as mush as possible**
 - 📫 How to reach me: **Ask me**
 - ⚡ Fun fact: **I can more about trees then computers**
