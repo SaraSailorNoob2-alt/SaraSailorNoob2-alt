@@ -1,13 +1,4 @@
-# GitHub Profile README Template 🎉
-
-## How to use:
-
-Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
-
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
-
-# Hi there, I'm [SaraSailorNoob2-alt]! 👋
+# Hi there, I'm SaraSailorNoob2-alt! 👋
 
 ![Banner Image]()
 
