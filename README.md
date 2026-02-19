@@ -16,7 +16,7 @@ CAD and I know some GIS
 
 ## Featured Projects 💻
 
--Working on it-
+Working on it
 
 ## Get in Touch 📬
 
