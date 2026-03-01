@@ -23,6 +23,4 @@ Working on it
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-![Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25lYnZyOXl6cmJwNHFqZDZteHk4eHI3bzgyeXp6NXl6bHNkczY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzhHnpZ2nGjS/giphy.gif) ![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t5aDRwcm9nN2lsNDUwOHZqMWdvbmlsdTJqaHhtOWo4dmF6c21waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSud59PILe9ri/giphy.gif) 
-
-![Amazing music for a sailing raccoon](https://www.youtube.com/watch?v=uHE0bOmXbMo&list=RDozIP9Q6al-4&index=21)
+![Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25lYnZyOXl6cmJwNHFqZDZteHk4eHI3bzgyeXp6NXl6bHNkczY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzhHnpZ2nGjS/giphy.gif) ![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t5aDRwcm9nN2lsNDUwOHZqMWdvbmlsdTJqaHhtOWo4dmF6c21waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kSud59PILe9ri/giphy.gif)
