@@ -1,4 +1,4 @@
-# Hi there, I'm SaraSailorNoob2-alt! 👋
+# Hi there! 👋
 
 ![Screenshot 2025-12-11 221755](https://github.com/user-attachments/assets/799df64d-b867-40b7-b7f4-248f7d3c9528)
 
